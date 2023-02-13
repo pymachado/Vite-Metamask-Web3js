@@ -1,0 +1,18 @@
+
+input[type="text"].btn-outline-secondary {
+  width: 10vw;
+  height: 10vh;
+ }
+
+input[type="text"].form-control {
+  width: 35vw;
+  height: 10vh;
+  font-size: small;
+}
+
+button.btn-outline-secondary {
+  border-color: blue;
+  color: blueviolet;
+}
+
+
